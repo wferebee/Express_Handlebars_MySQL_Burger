@@ -11,8 +11,23 @@
 
 
 # HOW IT WORKS
- * Users enter their imagined burger name
- * requests are sent to save the burger name
- * then all the existing burgers are populated in the "ready to eat section of the website.
- *Then a user can virtually eat the burger by clicking on it's name.
- *Then the data for the burger is modified and requests are sent again and the burger name is then populated in the
+ * Users enter their imagined burger name.
+ * Requests are sent to save the burger name in the database.
+ * Then all of the existing burgers are populated in the Ready to Eat section of the website.
+ * After that the user can virtually eat the burger by clicking on it's name.
+ * Then the data for the burger is modified and requests are sent again and the burger name is then populated in the Devoured Burgers section.
+ 
+ # Technologies Used
+ 
+  * HTML
+  * CSS
+  * Bootstrap
+  * Javascript
+  * JQuery
+  * Node.js
+  * Express.js
+  * Express-handlebars
+  * heroku
+  * MySql
+  
+
