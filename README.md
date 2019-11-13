@@ -4,7 +4,11 @@
   * Eat Da Burger is a full stack application that allows the user to create burger names, and then... devour them!
   * This app has a spooky feel to it but feel free to be creative and use your own imagination when thinking up your perfect burger name.
 
+## Active Link
 
+ * https://secret-brushlands-96019.herokuapp.com/
+ 
+ 
 ## Screenshot of working app
 
 ![Screenshot (22)](https://user-images.githubusercontent.com/53095806/68724202-d24a5780-0588-11ea-841d-82339880b97e.png)
@@ -30,6 +34,6 @@
   * heroku
   * MySQL
   
-  # Created by William Ferebee
+  ### Created by William Ferebee
   
 
