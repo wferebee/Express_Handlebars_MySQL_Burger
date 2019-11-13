@@ -11,7 +11,7 @@ connection = mysql.createConnection({
   password: "your new password",
   database: "burgers_db"
 });
-
+};
 connection.connect();
 
 // Export connection for our ORM to use.
