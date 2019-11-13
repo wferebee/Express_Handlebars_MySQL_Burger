@@ -1,4 +1,4 @@
-# Burger - East Da Burger
+# Burger - Eat Da Burger
 
 ## ABOUT
   * Eat Da Burger is a full stack application that allows the user to create burger names, and then... devour them!
