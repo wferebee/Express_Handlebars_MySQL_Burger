@@ -2,7 +2,7 @@
 
 ## ABOUT
   * Eat Da Burger is a full stack application that allows the user to create burger names, and then... devour them!
-  * This is app is a spooky feel to it be feel free to be creative and use your own imagination when thinking up your perfect burger name.
+  * This app has a spooky feel to it but feel free to be creative and use your own imagination when thinking up your perfect burger name.
 
 
 ## Screenshot of working app
